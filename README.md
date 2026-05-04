@@ -1,4 +1,4 @@
-Regardless, This is the last time anyone from this game see's. Here's Naruto-Arena. You will probably need to edit the rank names in server.js.
+Regardless, This is the last time anyone from these games see me. Here's Naruto-Arena. You will probably need to edit the rank names in server.js. Host it on render.
 
 
 ## Features
