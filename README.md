@@ -1,4 +1,6 @@
-Regardless, This is the last time anyone from these games see me. Here's Naruto-Arena. You will probably need to edit the rank names in server.js. Host it on render. Missions and Edit missions aren't linked, you can link it yourself in the sidebar or just change the address to missions.html/editmission.html. To role yourself as Admin when you first use this, make your mongo cloud atlas, connect it in the .env, use npm start and role yourself as admin via mongodb compass on your computer.
+This is the last time anyone from these games see me (This was the original plan I had of making this N-A). Here's Naruto-Arena. You will probably need to edit the rank names in server.js. Host it on render. Missions and Edit missions aren't linked, you can link it yourself in the sidebar or just change the address to missions.html/editmission.html. To role yourself as Admin when you first use this, make your mongo cloud atlas, connect it in the .env, use npm start and role yourself as admin via mongodb compass on your computer.
+
+Some design editing is needed since I merged C-A and N-A into one. Example files are included.
 
 
 ## Features
